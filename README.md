@@ -2,7 +2,7 @@
 -------------- Propose to your girlfriend --------------
 
 
- Page to impress that special person you have in mind, made in html, css and js
+Editable web template, and app to impress that special person you have in mind, made in html, css and js
 
 
  The link :
