@@ -1,6 +1,4 @@
 # description
--------------- Propose to your girlfriend --------------
-
 
 Editable web template, and app to impress that special person you have in mind, made in html, css and js
 
